@@ -1,38 +1,30 @@
 # Guia de Estudos em Programação
 
-Este repositório foi organizado como um guia prático para estudos, com separação por linguagem e indicação de tipagem.
+Este repositório está organizado como guia prático de estudos com foco, por enquanto, em tecnologias web.
 
-## Estrutura
+## Estrutura atual
 
 - `Linguagens/`
   - `JavaScript/` (tipagem dinâmica, fraca)
   - `TypeScript/` (tipagem estática, forte)
-  - `Python/` (tipagem dinâmica, forte)
-  - `Java/` (tipagem estática, forte)
-  - `C/` (tipagem estática, fraca)
-  - `C++/` (tipagem estática, forte)
-  - `C#/` (tipagem estática, forte)
-  - `Go/` (tipagem estática, forte)
-  - `Rust/` (tipagem estática, forte)
-  - `PHP/` (tipagem dinâmica, fraca)
-  - `Ruby/` (tipagem dinâmica, forte)
-  - `Kotlin/` (tipagem estática, forte)
-  - `Swift/` (tipagem estática, forte)
+  - `HTML/` (linguagem de marcação)
+  - `CSS/` (linguagem de estilos)
+  - `React/` (biblioteca para interfaces)
 
 ## Trilha inicial priorizada
 
-A primeira trilha completa é **JavaScript**, voltada para construção de um processador de dados no navegador, com foco em:
+A trilha mais completa neste momento é a de **JavaScript**, voltada para construção de um processador de dados no navegador:
 
-1. Interface com HTML e CSS
-2. Lógica JavaScript + DOM
-3. Limpeza e transformação de dados
+1. Fundamentos de interface (HTML e CSS)
+2. JavaScript básico + DOM
+3. Lógica e limpeza de dados
 4. Assincronicidade e leitura de arquivos/PDF
-5. Renderização de resultados e exportação para planilha
+5. Renderização e saída para planilha
+6. Projeto guiado de consolidação
 
 ## Como estudar
 
-1. Entre na pasta da linguagem desejada.
-2. Leia o `README.md` da linguagem para contexto e metas.
-3. Siga as fases em ordem.
-4. Use os checklists para marcar progresso.
-5. Ao concluir, registre um mini-projeto na fase final.
+1. Escolha a tecnologia de estudo em `Linguagens/`.
+2. Siga o `README.md` da pasta escolhida.
+3. Marque os checklists para acompanhar o progresso.
+4. Finalize com mini-projeto prático.
