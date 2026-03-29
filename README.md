@@ -1,19 +1,13 @@
 # Guia de Estudos em Programação
 
-Este repositório está organizado como guia prático de estudos com foco, por enquanto, em tecnologias web.
+Este repositório está organizado, por enquanto, com foco exclusivo em **JavaScript** para desenvolvimento de um processador de dados no navegador.
 
 ## Estrutura atual
 
 - `Linguagens/`
   - `JavaScript/` (tipagem dinâmica, fraca)
-  - `TypeScript/` (tipagem estática, forte)
-  - `HTML/` (linguagem de marcação)
-  - `CSS/` (linguagem de estilos)
-  - `React/` (biblioteca para interfaces)
 
-## Trilha inicial priorizada
-
-A trilha mais completa neste momento é a de **JavaScript**, voltada para construção de um processador de dados no navegador:
+## Trilha priorizada: JavaScript
 
 1. Fundamentos de interface (HTML e CSS)
 2. JavaScript básico + DOM
@@ -24,7 +18,6 @@ A trilha mais completa neste momento é a de **JavaScript**, voltada para constr
 
 ## Como estudar
 
-1. Escolha a tecnologia de estudo em `Linguagens/`.
-2. Siga o `README.md` da pasta escolhida.
-3. Marque os checklists para acompanhar o progresso.
-4. Finalize com mini-projeto prático.
+1. Siga a trilha em `Linguagens/JavaScript/` na ordem das fases.
+2. Marque os checklists para acompanhar progresso.
+3. Finalize com o projeto guiado da Fase 6.
