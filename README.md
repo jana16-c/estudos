@@ -1,23 +1,30 @@
-# Guia de Estudos em Programação
+# Estudos em Programacao
 
-Este repositório está organizado, por enquanto, com foco exclusivo em **JavaScript** para desenvolvimento de um processador de dados no navegador.
+Repositorio de anotacoes e exercicios de programacao, com foco em JavaScript para desenvolvimento de ferramentas no navegador.
 
-## Estrutura atual
+## Estrutura
 
 - `Linguagens/`
-  - `JavaScript/` (tipagem dinâmica, fraca)
+  - `JavaScript/` - fundamentos, DOM, logica de dados, assincronia, leitura de PDF e exportacao
 
-## Trilha priorizada: JavaScript
+## Trilha atual: JavaScript
 
-1. Fundamentos de interface (HTML e CSS)
-2. JavaScript básico + DOM
-3. Lógica e limpeza de dados
-4. Assincronicidade e leitura de arquivos/PDF
-5. Renderização e saída para planilha
-6. Projeto guiado de consolidação
+| Fase | Topico | Status |
+|---|---|---|
+| 1 | Fundamentos de interface (HTML e CSS) | Concluida |
+| 2 | JavaScript basico + DOM | Em andamento |
+| 3 | Logica e limpeza de dados | Pendente |
+| 4 | Assincronicidade e leitura de arquivos/PDF | Pendente |
+| 5 | Renderizacao e saida para planilha | Pendente |
+| 6 | Projeto guiado de consolidacao | Pendente |
 
-## Como estudar
+## Como usar
 
 1. Siga a trilha em `Linguagens/JavaScript/` na ordem das fases.
-2. Marque os checklists para acompanhar progresso.
+2. Marque os checklists dentro de cada fase para acompanhar o progresso.
 3. Finalize com o projeto guiado da Fase 6.
+
+## Contexto
+
+Os estudos aqui sao direcionados ao desenvolvimento pratico de processadores de documentos PDF que rodam diretamente no navegador.
+Repositorio relacionado: [processadores-de-contracheques](https://github.com/jana16-c/processadores-de-contracheques)
